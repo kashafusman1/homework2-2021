@@ -6,7 +6,6 @@ body{
 h1 {
     text-align: center;
     font-size: 64px;
-    padding: 10px;
 }
 h2 {
     font-size: 32px;
@@ -23,10 +22,7 @@ img {
 }
 div{
     min-height: 150px;
-    padding-top: 25px;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
+    padding: 25px;
 }
 #red {
     background-color: red;
@@ -37,13 +33,15 @@ div{
     text-align: left;
 }
 #yellow {
-    color: black;
     background-color: yellow;
     text-align: right;
 }
 #yellow h2 {
     color: black;
     text-shadow: 4px 4px 2px #c7e2c7;
+}
+#yellow p { 
+    color: black;
 }
 #green {
     background-color: #008000;

@@ -1,4 +1,4 @@
-body{
+body {
     font-family: "Times New Roman", sans-serif;
     background-color: black;
     color: white;
@@ -12,7 +12,7 @@ h2 {
     font-size: 32px;
     text-shadow: 4px 4px 2px #808080;
 }
-p{
+p {
     font-size: 24px;
     padding-top: 15px;
 }
@@ -21,7 +21,7 @@ img {
     margin: 0 auto;
     width: 550px;
 }
-div{
+div {
     min-height: 150px;
     padding: 25px;
 }
